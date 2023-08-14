@@ -26,7 +26,7 @@ Additionally, this portable build uses the latest CUDNN (8.9.4).
 
 You can download it here:
 
->>> Download portable <<<
+>>> Download portable
 
 Mega.nz
 
