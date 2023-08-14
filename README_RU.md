@@ -26,9 +26,9 @@
 
 Скачать можно тут:
 
->>> Скачать портативную версию
+>>> [Скачать портативную версию](https://dl.neurochat-gpt.ru/f/5650)
 
-Mega.nz
+[Mega.nz](https://mega.nz/file/7VpmBZJS#-G6YDILoJvchE2bN2_K4tXi3pP5zDg_xde-uIj21CSA)
 
 ## Ссылки
 
