@@ -26,9 +26,9 @@ Additionally, this portable build uses the latest CUDNN (8.9.4).
 
 You can download it here:
 
->>> Download portable
+>>> [Download portable](https://dl.neurochat-gpt.ru/f/5650)
 
-Mega.nz
+[Mega.nz](https://mega.nz/file/7VpmBZJS#-G6YDILoJvchE2bN2_K4tXi3pP5zDg_xde-uIj21CSA)
 
 
 ## Support me:
