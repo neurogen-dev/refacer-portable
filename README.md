@@ -34,3 +34,5 @@ Mega.nz
 ## Support me:
 
 You can support me [at this link](https://www.donationalerts.com/r/em1t). Your help motivates me to update builds as well as create new ones. 
+
+Нou can also subscribe to my [Boosty](https://boosty.to/neurogen), where I post other portable versions of various neural networks. 
