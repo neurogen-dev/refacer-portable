@@ -1,4 +1,4 @@
-# EN | RU
+# EN | [RU](https://github.com/Em1tSan/refacer-portable/blob/main/README_RU.md)
 
 # Refacer: One-Click Deepfake Multi-Face Swap Tool - Portable version 
 
@@ -20,7 +20,7 @@ Additionally, this portable build uses the latest CUDNN (8.9.4).
 
 2) Unpack the archive 
 
-3) Run the start_portable_ru.bat file
+3) Run the start_portable_en.bat file
 
 ## My Telegram channel
 
